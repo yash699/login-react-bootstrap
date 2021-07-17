@@ -1,0 +1,25 @@
+#Login_btn
+{
+  background-color: #002060!important;
+    outline: unset;
+    border: 0;
+}
+
+#Login_btn:focus
+{
+  background-color: #002060!important;
+    outline: unset;
+    border: 0;
+    box-shadow: unset;
+}
+
+#Login_btn:hover
+{
+  background-color: #0d327b!important;
+
+}
+.form-control
+{
+  height: 2.8rem;
+}
+
